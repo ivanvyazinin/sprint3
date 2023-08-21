@@ -1,5 +1,5 @@
 public class Calculator {
-    final static int MIN_AMOUNT = 400;
+    final static int MIN_AMOUNT = 300;
 
     public static int calculate(Integer distance, Boolean isLarge, Boolean isFragile) {
         int currentAmount = 0;
